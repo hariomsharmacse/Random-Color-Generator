@@ -44,3 +44,13 @@ button{
     border-radius: 10px;
     font-size: 35px;
 }
+
+button:hover{
+  cursor: pointer;
+  text-shadow: 4px 4px 8px rgba(239, 5, 5, 0.788);
+  font-size: 36px;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.788);
+  width: 101%;
+  height: 56px;
+}
+
